@@ -16,7 +16,7 @@ def search_binary(target,sorted_list):
     return -1
 
 
-#nota
+#notas
 print(search_binary(3,[2,3,4,5,7,8]))
             
         
